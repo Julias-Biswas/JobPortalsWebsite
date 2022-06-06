@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <web-app>
 
+    <!-- For Remove .jsp extension -->
+    
+    <servlet>
+        <servlet-name>aboutdemo</servlet-name>
+        <jsp-file>/about-us.jsp</jsp-file>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>aboutdemo</servlet-name>
+        <url-pattern>/about-us</url-pattern>
+    </servlet-mapping>
+    
+    
     <filter>
         <filter-name> valfilterdemo </filter-name>
         <filter-class> com.julias.backend.ValidationFilter </filter-class>
