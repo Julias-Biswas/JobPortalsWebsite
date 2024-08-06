@@ -312,3 +312,7 @@ html
     border-radius: 10px;
     transition: 0.5s;
 }
+
+.alert {
+    margin-bottom: 0px !important;
+}

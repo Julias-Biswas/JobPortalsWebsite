@@ -91,8 +91,7 @@
                                         <b style="font-size: 25px; color: blue;"> <jsp:expression>c_name</jsp:expression> </b> <span style="color: #6cd1fb; float: right; font-size: 18px;"> (<jsp:expression>date1</jsp:expression> &&nbsp;<jsp:expression>time1</jsp:expression>) </span> <br> 
                                         <span style="font-size: 20px; color: black;"> <i class="glyphicon glyphicon-home"></i> <jsp:expression>c_name</jsp:expression> </span> <br>
                                         <span style="font-size: 20px; color: black;"> <i class="glyphicon glyphicon-envelope"></i> <jsp:expression>c_email</jsp:expression> </span> <br>
-                                        <span style="font-size: 20px; color: black;"> <i class="glyphicon glyphicon-picture"></i> <jsp:expression>c_logo</jsp:expression> </span> <br>
-                                        <span style="font-size: 20px; color: black;"> <i class="glyphicon glyphicon-earphone"></i> <jsp:expression>c_phoneno</jsp:expression> </span> <br>
+                                        <span style="font-size: 20px; color: black;"> <i class="glyphicon glyphicon-earphone"></i> +91-<jsp:expression>c_phoneno</jsp:expression> </span> <br>
                                         <span style="font-size: 20px; color: black;"> <i class="glyphicon glyphicon-upload"></i> <jsp:expression>date1</jsp:expression> </span><br><br>
                                         <a href="company-jobs.jsp?c_name=<jsp:expression>c_name</jsp:expression>" class="another_hyperlink" style="font-size: 18px;" > See All Jobs Of This Company </a>
                                     </div>

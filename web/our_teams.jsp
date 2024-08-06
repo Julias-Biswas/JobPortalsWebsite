@@ -75,12 +75,12 @@
                         
                         <div class="row">
                             <div class="col-md-3">
-                                <img alt="Julias Biswas" src="images/Resume_Photo.jpg" height="200" width="200" style="border: 1px solid black; border-radius: 50%;" />
+                                <img alt="Julias Biswas" src="images/Resume_Photo.png" height="200" width="200" style="border: 1px solid black; border-radius: 50%;" />
                             </div>
                             <div class="col-md-9">
                                 <b style="color: #0000cc; font-size: 30px;"> Julias Biswas </b>
                                 <p>
-                                    ( Back End Developer , Front End Developer )
+                                    (Back-end Developer, Database Developer and Team Lead)
                                 </p>
                                 <span> <b> <i class="glyphicon glyphicon-envelope"> </i> &nbsp;&nbsp; juliasbiswas0001@gmail.com </b> </span> <br>
                                 <span> <b> <i class="glyphicon glyphicon-earphone"> </i> &nbsp;&nbsp; 6294160823 </b> </span> <br>
@@ -96,7 +96,7 @@
                             <div class="col-md-9">
                                 <b style="color: #0000cc; font-size: 30px;"> Nayan Bhowmick </b>
                                 <p>
-                                    ( Back End Developer , Front End Developer )
+                                    (Front-end Developer)
                                 </p>
                                 <span> <b> <i class="glyphicon glyphicon-envelope"> </i> &nbsp;&nbsp; nayanbhowmick49@gmail.com </b> </span> <br>
                                 <span> <b> <i class="glyphicon glyphicon-earphone"> </i> &nbsp;&nbsp; 6291895984 </b> </span> <br>
@@ -112,7 +112,7 @@
                             <div class="col-md-9">
                                 <b style="color: #0000cc; font-size: 30px;"> Debjoyti Seal </b>
                                 <p>
-                                    ( Front End Developer )
+                                    (Front-end Developer)
                                 </p>
                                 <span> <b> <i class="glyphicon glyphicon-envelope"> </i> &nbsp;&nbsp;  debjyotiseal1@gmail.com </b> </span> <br>
                                 <span> <b> <i class="glyphicon glyphicon-earphone"> </i> &nbsp;&nbsp; 9093874312 </b> </span> <br>
@@ -123,12 +123,12 @@
                             </div>
                             <hr>
                             <div class="col-md-3">
-                                <img alt="Nayan Bhowmick" src="images/deepraj_podder.jpeg" height="200" width="200" style="border: 1px solid black; border-radius: 50%;" />
+                                <img alt="Deepraj Podder" src="images/default_image.png" height="200" width="200" style="border: 1px solid black; border-radius: 50%;" />
                             </div>
                             <div class="col-md-9">
                                 <b style="color: #0000cc; font-size: 30px;"> Deepraj Podder </b>
                                 <p>
-                                    (  Front End Developer )
+                                    (Content Writer)
                                 </p>
                                 <span> <b> <i class="glyphicon glyphicon-envelope"> </i> &nbsp;&nbsp; deeprajpodder7@gmail.com </b> </span> <br>
                                 <span> <b> <i class="glyphicon glyphicon-earphone"> </i> &nbsp;&nbsp; 91237 21390 </b> </span> <br>
@@ -139,12 +139,12 @@
                             </div>
                             <hr>
                             <div class="col-md-3">
-                                <img alt="Nayan Bhowmick" src="images/anirban.jpeg" height="200" width="200" style="border: 1px solid black; border-radius: 50%;" />
+                                <img alt="Anirban Bhattacharya" src="images/default_image.png" height="200" width="200" style="border: 1px solid black; border-radius: 50%;" />
                             </div>
                             <div class="col-md-9">
-                                <b style="color: #0000cc; font-size: 30px;"> Anirban Bhattacharya  </b>
+                                <b style="color: #0000cc; font-size: 30px;"> Anirban Bhattacharya </b>
                                 <p>
-                                    ( Front End Developer )
+                                    (Content Writer)
                                 </p>
                                 <span> <b> <i class="glyphicon glyphicon-envelope"> </i> &nbsp;&nbsp; @gmail.com </b> </span> <br>
                                 <span> <b> <i class="glyphicon glyphicon-earphone"> </i> &nbsp;&nbsp; 84200 04744 </b> </span> <br>
